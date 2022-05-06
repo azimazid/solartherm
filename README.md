@@ -1,1 +1,8 @@
-Solar thermal power station performance simulation and optimisation.
+# SolarTherm
+
+This repo was cloned from:
+
+https://github.com/SolarTherm/SolarTherm
+
+
+
